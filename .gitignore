@@ -1,4 +1,8 @@
 .ipynb_checkpoints/
 derby.log
 metastore_db/
+loan_test1.csv
+loan_test.csv
+loan_train.csv
+loan.csv
 
